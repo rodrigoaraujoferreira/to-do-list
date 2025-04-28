@@ -23,7 +23,7 @@ public class Todo {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private long id;
+	private Long id;
 	
 	@NotBlank(message = "tarefa é obrigatorio")
 	@Column(name = "task")
