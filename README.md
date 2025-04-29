@@ -18,12 +18,11 @@ Foi criado com o objetivo de praticar e consolidar conhecimentos em **Spring Boo
 
 ## 🎯 Funcionalidades
 
-- [ ] Criar uma nova tarefa
-- [ ] Listar todas as tarefas
-- [ ] Atualizar informações de uma tarefa
-- [ ] Marcar tarefa como concluída
-- [ ] Excluir tarefa
-- [ ] Documentação automática da API com Swagger
+- [X] Criar uma nova tarefa
+- [X] Listar todas as tarefas
+- [X] Atualizar informações de uma tarefa
+- [X] Excluir tarefa
+- [X] Documentação automática da API com Swagger
 
 ### - Clone o repositório
 ```bash
